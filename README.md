@@ -1,4 +1,4 @@
-![235887832-c765824d-cd01-49d5-896d-a3c5098ba9d3](https://github.com/swalihmp/swalihmp/assets/51339828/dd51b21b-b214-4c4a-bb27-ef595d322c3a)
+![235887832-c765824d-cd01-49d5-896d-a3c5098ba9d3](https://github.com/aswinbharath1/aswinbharath1/blob/main/pixel%20art%202023.gif)
 ## Hi, I am Aswin Bharath! 
 <h3 align="center">A passionate Python Fullstack developer from Kerala,India</h3>
 </br>
@@ -20,6 +20,12 @@
 
  
   <img height="40" align="center" alt="Aswin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+ <img height="40" align="center" alt="Aswin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+ <img height="40" align="center" alt="Aswin-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
  <img height="40" align="center" alt="Aswin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
