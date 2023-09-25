@@ -34,8 +34,7 @@
   <a href = "mailto: aswinbharathvkd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
- 
-  ![Snake animation](https://github.com/aswinbharath1/aswinbharath1/blob/output/github-contribution-grid-snake.svg)
+ ![snake animation](https://github.com/<seu aswinbharath1>/<seu aswinbharath1>/blob/output/github-contribution-grid-snake2.svg)
   
  
 </div>
