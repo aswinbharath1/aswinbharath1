@@ -28,8 +28,7 @@
  <img height="40" align="center" alt="Aswin-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
- <img height="40" align="center" alt="Aswin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
   <img height="40" align="center" alt="Aswin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,7 +45,8 @@
  </br>
 </br>
 
- ![snake animation](https://github.com/<seu aswinbharath1>/<seu aswinbharath1>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/aswinbharath1/aswinbharath1/blob/output/github-contribution-grid-snake2.svg)
+
   
  
 </div>
